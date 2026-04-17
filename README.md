@@ -180,23 +180,23 @@ By keeping augmentation lightweight and semantically consistent, synthetic examp
 
 Figure 1: Counts for unique values of the label after data augmentation has been implemented
 
-![LABEL_BAR_GRAPH](images/LABEL_AUG_POST.png)
+![LABEL_BAR_GRAPH](LABEL_AUG_POST.png)
 
 Figure 2: Word cloud of common words before stop word removal
 
-![WORD_CLOUD](images/WORD_CLOUD_PRE_SWR.png)
+![WORD_CLOUD](WORD_CLOUD_PRE_SWR.png)
 
 Figure 3: Token length of response label relative to the frequency post tokenization
 
-![TOKEN_RESPONSE](images/DIST_TOKEN_RESPONSE.png)
+![TOKEN_RESPONSE](DIST_TOKEN_RESPONSE.png)
 
 Figure 4: Token length of prompt label relative to the frequency post tokenization
 
-![TOKEN_PROMPT](images/DIST_TOKEN_PROMPT.png)
+![TOKEN_PROMPT](DIST_TOKEN_PROMPT.png)
 
 Figure 5: Bar chart showing the top 20 most common bigrams in user prompts, highlighting frequent question-oriented phrases such as “how long,” “birth control,” and “how much,” which reflect information-seeking behavior related to reproductive health topics.
 
-![BIGRAM](images/PROMPT_BIGRAMS.png)
+![BIGRAM](PROMPT_BIGRAMS.png)
 
 ---
 
