@@ -8,7 +8,7 @@
 |------------------|---------------|--------------------------------------------------------------------------|
 | Emma Lin    | @elinCSs28 | Data exploration & visualization, Decision Tree Model Training, overall project coordination          |
 | Ryan Mbouombouo   | @iryanmb |  Data Augmentation & Code, Gradient Boosting Training, Data Preprocessing             |
-| Ogechika Esedebe     | @oesedebe |  Data exploration & visualization, Data preparation and augmentation, Logistic Regression and Random forest Training & Testing             |
+| Ogechika Esedebe     | @oesedebe |  Data exploration & visualization, Data preparation and augmentation, Logistic Regression and Random forest Training & Testing, overall project coordination             |
 | Camila Lightfoot      | @CamilaLightfoot |  Data Augmentation, dataset augmentation, Exploratory Data Analysis & Decision Tree Model Training             |
 | Zerlyne Nandwani-Simons       | @Z-Nsimons | Data preparation and augmentation, visualization, Logistic Regression and Random Forest training and testing, liaison between team and coach/CAs          |
 
